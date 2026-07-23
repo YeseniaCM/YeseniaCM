@@ -1,8 +1,11 @@
 # Hi – I'm Yesenia! 👋
-- ✨ I’m currently studying Front-End Development and work 40% as a digital communicator
-- 🌱 I’m learning HTML, CSS/SASS, Java/Type-script, API-development, agile working methods and Github (amongst other things)
-- 💻 I also have knowledge in some CMS-systems. I work a lot in Prismic and know a little WordPress and Magento!
-- 📫 You can reach me at Yesenia.martinez@medieinstitutet.se or connect with me on LinkedIn
+
+* ✨ I'm a Front-End Developer at **Mio**, where I develop and improve Mio's e-commerce website.
+* 💻 I work with modern web technologies including **React, TypeScript, JavaScript, HTML, CSS/SASS**, and collaborate closely with designers, product owners, and other developers to build user-friendly solutions.
+* 🚀 I have experience working with **headless CMS**, APIs, responsive development, accessibility, and creating new features as well as improving existing functionality.
+* 🌱 I'm passionate about web development and continuously expanding my skills by learning new technologies and best practices.
+* 📫 You can reach me at **[Yeseniacamilla@hotmail.com](mailto:Yeseniacamilla@hotmail.com)** or connect with me on **LinkedIn**.
+
   
 [![image link](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesenia-martinez-8b39a8102/)
 ## My Tech Stack
